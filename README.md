@@ -125,7 +125,7 @@ with open('matrix_mul.cu', 'w') as f:
 ```
 
 # OUTPUT:
-SHOW YOUR OUTPUT HERE
+![image](https://github.com/user-attachments/assets/0572b037-2e56-457a-b744-a3298ad8f297)
 
 # RESULT:
 
